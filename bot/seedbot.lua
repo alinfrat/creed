@@ -231,7 +231,7 @@ function create_config( )
     moderation = {data = 'data/moderation.json'},
     about_text = [[@nfr4t
 ]],2
-    help_text_realm = [[
+    help_text_realm = [[ @nfr4t]]
 Realm Commands:
 
 !creategroup [Name]
