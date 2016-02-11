@@ -229,9 +229,10 @@ function create_config( )
     sudo_users = {110509621,112737535,0,0,0,tonumber(our_id)},--Sudo users
     disabled_channels = {},
     moderation = {data = 'data/moderation.json'},
-    about_text = [[@nfr4t
-]],2
-    help_text_realm = [[ @nfr4t]]
+    about_text = [[
+    ali nfrat
+]],
+    help_text_realm = [[
 Realm Commands:
 
 !creategroup [Name]
